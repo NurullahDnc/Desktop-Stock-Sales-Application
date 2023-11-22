@@ -1,0 +1,46 @@
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\bin\Debug\rapor.exe.config
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\bin\Debug\rapor.exe
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\bin\Debug\rapor.pdb
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\E-TicaretG.csproj.AssemblyReference.cache
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\E-TicaretG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.AnaSayfa.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.Kategoriİslemleri.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.Properties.Resources.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.Sorgula.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\E-TicaretG.csproj.GenerateResource.cache
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\E-TicaretG.csproj.CoreCompileInputs.cache
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.exe
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.pdb
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.Kullanıcı.kullanıcı.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.Kullanıcı.YeniKulanıcı.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.deneme.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.Satis.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.UrunEkle.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.MusteriEkle.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.Müşteriler.MusteriGuncelle.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.Müşteriler.MusteriSil.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.Ürünler.UrunGuncelle.resources
+C:\Users\Nurullah\Desktop\projeler\E-TicaretG\rapor\obj\Debug\rapor.Ürünler.UrunSil.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\bin\Debug\rapor.exe.config
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\bin\Debug\rapor.exe
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\bin\Debug\rapor.pdb
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\E-TicaretG.csproj.AssemblyReference.cache
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\E-TicaretG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.AnaSayfa.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.deneme.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.Kategoriİslemleri.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.Kullanıcı.kullanıcı.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.Kullanıcı.YeniKulanıcı.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.MusteriEkle.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.Müşteriler.MusteriGuncelle.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.Müşteriler.MusteriSil.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.Properties.Resources.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.Satis.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.Sorgula.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.UrunEkle.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.Ürünler.UrunGuncelle.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.Ürünler.UrunSil.resources
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\E-TicaretG.csproj.GenerateResource.cache
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\E-TicaretG.csproj.CoreCompileInputs.cache
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.exe
+C:\Users\Nurullah\Desktop\Xr\Proje\web Dens\E-Ticaret\E-Ticaret(Gorsel)\rapor\obj\Debug\rapor.pdb

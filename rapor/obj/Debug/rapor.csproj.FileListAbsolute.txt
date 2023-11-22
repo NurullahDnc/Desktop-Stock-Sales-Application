@@ -1,0 +1,35 @@
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\bin\Debug\rapor.exe.config
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\bin\Debug\rapor.exe
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\bin\Debug\rapor.pdb
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.csproj.AssemblyReference.cache
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.AnaSayfa.resources
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.Properties.Resources.resources
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.csproj.GenerateResource.cache
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.csproj.CoreCompileInputs.cache
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.exe
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.pdb
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.Satiş.resources
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.Sorgula.resources
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\bin\Debug\rapor.exe.config
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\bin\Debug\rapor.exe
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\bin\Debug\rapor.pdb
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\obj\Debug\rapor.csproj.AssemblyReference.cache
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\obj\Debug\rapor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\obj\Debug\rapor.AnaSayfa.resources
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\obj\Debug\rapor.Müşteri.resources
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\obj\Debug\rapor.Properties.Resources.resources
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\obj\Debug\rapor.Satiş.resources
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\obj\Debug\rapor.Sorgula.resources
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\obj\Debug\rapor.Ürün.resources
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\obj\Debug\rapor.csproj.GenerateResource.cache
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\obj\Debug\rapor.csproj.CoreCompileInputs.cache
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\obj\Debug\rapor.exe
+C:\Users\Nurullah\Desktop\proje\gorsel\rapor\obj\Debug\rapor.pdb
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.ÜrünEkle.resources
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.MüsteriEkle.resources
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.Ürünler.ÜrünGuncelle.resources
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.Ürünler.ÜrünSil.resources
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.Müşteriler.MüşteriGuncelle.resources
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.Müşteriler.MüşteriSil.resources
+C:\Users\Nurullah\Desktop\uzaktan etim\rapor\rapor\obj\Debug\rapor.Kategoriİslemleri.resources

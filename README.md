@@ -12,12 +12,11 @@
 ## About The Project
 
 
- 
-![Ekran görüntüsü 2024-03-17 183145](https://github.com/NurullahDnc/Desktop-Stock-Sales-Application/assets/150585098/20130029-703f-4c5d-afe8-bbd3f8b5582c)
-![Upl![Ekran görüntüsü 2024-03-17 184132](https://github.com/NurullahDnc/Desktop-Stock-Sales-Application/assets/150585098/d9c94c3a-1bc7-4235-b000-8dfd7c489339)
-oading Ekran görüntüsü 2024-03-17 183145.png…]()
-![Ekran görüntüsü 2024-03-17 184216](https://github.com/NurullahDnc/Desktop-Stock-Sales-Application/assets/150585098/15249051-6671-4886-af32-3599909ec01b)
-![Ekran görüntüsü 2024-03-17 184245](https://github.com/NurullahDnc/Desktop-Stock-Sales-Application/assets/150585098/630ce27a-2561-4e13-9816-c37e8dd8ddba)
+![Ekran görüntüsü 2024-03-17 183145](https://github.com/NurullahDnc/Desktop-Stock-Sales-Application/assets/150585098/3db9bd3a-3bcb-4617-a74f-ea9051b6a523)
+![Ekran görüntüsü 2024-03-17 184132](https://github.com/NurullahDnc/Desktop-Stock-Sales-Application/assets/150585098/c0d5f3a2-882b-4853-9df8-026cf82e4fee)
+![Ekran görüntüsü 2024-03-17 184216](https://github.com/NurullahDnc/Desktop-Stock-Sales-Application/assets/150585098/d3537b36-173e-4808-a37e-b845eac90371)
+![Ekran görüntüsü 2024-03-17 184245](https://github.com/NurullahDnc/Desktop-Stock-Sales-Application/assets/150585098/aa0c380d-d548-4ac4-9770-242c77444af1)
+
 
 
 
